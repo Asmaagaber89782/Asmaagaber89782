@@ -48,11 +48,11 @@ I am a Software Engineering graduate from Cairo University with a passion for bu
 Beyond engineering, I am deeply committed to community development and social entrepreneurship:
 * **7+ Years of Volunteering:** Led major humanitarian and educational initiatives across regional foundations.
 * **Life Makers Foundation:** Served as a regional leader, managing large-scale teams of volunteers to drive grassroots social impact.
-* **Bawsala Foundation:** Active contributor to empowerment and skill-building initiatives.
 
 ---
 
 ## 📈 Find Me Around the Web
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
-- 📧 **Email:** [Your Email Address Here]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/asmaa-gaber-412b1224a/)]
+- 📧 **Email:**asmaamohamed09231@gmail.com
+
