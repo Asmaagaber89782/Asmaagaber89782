@@ -53,6 +53,6 @@ Beyond engineering, I am deeply committed to community development and social en
 
 ## 📈 Find Me Around the Web
 
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/asmaa-gaber-412b1224a/)]
-- 📧 **Email:**asmaamohamed09231@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/asmaa-gaber-412b1224a/
+- 📧 **Email:** asmaamohamed09231@gmail.com
 
